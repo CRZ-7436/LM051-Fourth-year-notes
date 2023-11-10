@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "5a180bd2c1d74bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c158fbf4445f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "939b2c81c2fdfd06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS4287 neural computing JJ/Week 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fa0eafa7ecc0a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "23e6d7e9738dbcbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e11fb53befa9f1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e2bcf7754cdd1b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0de16a76afa46158",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "569b0cb0059fe9b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d7e9366ee79bc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d63ab9e60ce2c90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS4287 neural computing JJ/Week 8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08d73f5e4cd3b513",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS4287 neural computing JJ/Week 8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7af7048d0826a7bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1afc4299f3293c66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS4287 neural computing JJ/Week 8.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "939b2c81c2fdfd06",
+  "lastOpenFiles": [
+    "CS4337/CS4337-week 9.md",
+    "CS4337/CS4337-Week 7 Additional notes.md",
+    "CS4207 Chris Exton/Cs4207-week 8.md",
+    "CS4207 Chris Exton/Cs4207-week 7.md",
+    "CS4207 Chris Exton/Cs4207-week 4.md",
+    "CS4207 Chris Exton/Cs4207-week 3.md",
+    "CS4207 Chris Exton/Cs4207-week 2.md",
+    "CS4207 Chris Exton/CS4207-week 1.md",
+    "CS4207 Chris Exton/CS4207-Key Concepts.md",
+    "CS4287 neural computing JJ/CS4287-Week 9.md",
+    "CS4287 neural computing JJ/Week 8.md",
+    "CS4337/CS4337-Week 2.md",
+    "CS4337/CS4337-Week 1 Additional notes.md",
+    "CS4337/CS4337-Week 1.md",
+    "CS4207 Chris Exton/CS4207-Week 8.md",
+    "CS4337/CS4337-Week 3.md",
+    "CS4337/CS4337-Week 2 Additional notes.md",
+    "CS4337/CS4337-Week 5 Additional notes.md",
+    "CS4337/CS4337-Week 4 Additional notes.md",
+    "CS4337/CS4337-Week 3 Additional notes.md",
+    "CS4337/CS4337-Week 7.md",
+    "CS4337/CS4337-Week 5.md",
+    "CS4337/CS4337-Week 4.md",
+    "CS4337.zip",
+    "CS4337/notes.md",
+    "CS",
+    "CS4287 neural computing JJ/exam questions/exam hints.md",
+    "CS4125 system analysis & designJJ/cs4125-Week 3.md",
+    "CS4287 neural computing JJ/exam questions",
+    "CS4125 system analysis & designJJ/Exam questions",
+    "CS4617 Tabea",
+    "CS4337",
+    "CS4125 system analysis & designJJ",
+    "CS4207 Chris Exton",
+    "FYP",
+    "CS4287 neural computing JJ"
+  ]
+}
