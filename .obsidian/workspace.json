@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "74c158fbf4445f06",
+        "id": "9cfb14b5fa4a07e7",
         "type": "tabs",
         "children": [
           {
-            "id": "939b2c81c2fdfd06",
+            "id": "3f991a43ab7ef6cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4287 neural computing JJ/Week 8.md",
+                "file": "CS4287 neural computing JJ/exam prep/Exam paper 2022,23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4287 neural computing JJ/Week 8.md",
+                "file": "CS4287 neural computing JJ/exam prep/Exam paper 2022,23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4287 neural computing JJ/Week 8.md",
+                "file": "CS4287 neural computing JJ/exam prep/Exam paper 2022,23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4287 neural computing JJ/Week 8.md"
+                "file": "CS4287 neural computing JJ/exam prep/Exam paper 2022,23.md"
               }
             }
           }
@@ -146,43 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "939b2c81c2fdfd06",
+  "active": "3f991a43ab7ef6cc",
   "lastOpenFiles": [
-    "CS4337/CS4337-week 9.md",
-    "CS4337/CS4337-Week 7 Additional notes.md",
-    "CS4207 Chris Exton/Cs4207-week 8.md",
-    "CS4207 Chris Exton/Cs4207-week 7.md",
-    "CS4207 Chris Exton/Cs4207-week 4.md",
-    "CS4207 Chris Exton/Cs4207-week 3.md",
-    "CS4207 Chris Exton/Cs4207-week 2.md",
-    "CS4207 Chris Exton/CS4207-week 1.md",
-    "CS4207 Chris Exton/CS4207-Key Concepts.md",
-    "CS4287 neural computing JJ/CS4287-Week 9.md",
-    "CS4287 neural computing JJ/Week 8.md",
-    "CS4337/CS4337-Week 2.md",
-    "CS4337/CS4337-Week 1 Additional notes.md",
-    "CS4337/CS4337-Week 1.md",
-    "CS4207 Chris Exton/CS4207-Week 8.md",
-    "CS4337/CS4337-Week 3.md",
-    "CS4337/CS4337-Week 2 Additional notes.md",
-    "CS4337/CS4337-Week 5 Additional notes.md",
-    "CS4337/CS4337-Week 4 Additional notes.md",
-    "CS4337/CS4337-Week 3 Additional notes.md",
-    "CS4337/CS4337-Week 7.md",
-    "CS4337/CS4337-Week 5.md",
-    "CS4337/CS4337-Week 4.md",
+    "CS4287 neural computing JJ/exam prep/Exam paper 2021,22.md",
+    "CS4287 neural computing JJ/exam prep/Exam paper 2022,23.md",
+    "Pasted image 20231214202909.png",
+    "Pasted image 20231214202646.png",
+    "Pasted image 20231214202517.png",
+    "Pasted image 20231214202059.png",
+    "CS4287 neural computing JJ/exam prep/Exam paper 2022,23(old).md",
+    "Pasted image 20231214201631.png",
+    "Pasted image 20231214192407.png",
+    "Pasted image 20231214191604.png",
+    "Pasted image 20231214191528.png",
+    "Pasted image 20231214191445.png",
+    "Pasted image 20231214190938.png",
+    "CS4287 neural computing JJ/exam prep/lecture B-D.md",
+    "CS4287 neural computing JJ/exam prep/Lecture N-R.md",
+    "CS4287 neural computing JJ/exam prep/Lecture K-M.md",
+    "CS4287 neural computing JJ/exam prep/Lecture H-J.md",
+    "CS4287 neural computing JJ/exam prep/Lecture E-G.md",
+    "CS4125 system analysis & designJJ/exam prep.md",
+    "CS4287 neural computing JJ/exam prep",
+    "CS4125 system analysis & designJJ/CS4125 Midterm S1AY2223.md",
+    "CS4125 system analysis & designJJ/CS4125 Midterm II 2019-2020 solutions.md",
+    "CS4125 system analysis & designJJ/cs4125-mid term prep.md",
+    "CS4125 system analysis & designJJ/lecture A notes.md",
+    "CS4125 system analysis & designJJ/Lecture M notes.md",
+    "CS4125 system analysis & designJJ/Lecture L notes.md",
+    "CS4125 system analysis & designJJ/Lecture K notes.md",
+    "CS4125 system analysis & designJJ/Lecture J notes.md",
+    "CS4125 system analysis & designJJ/Lecture I notes.md",
+    "CS4125 system analysis & designJJ/Lecture H notes.md",
+    "CS4125 system analysis & designJJ/lecture G notes.md",
+    "CS4125 system analysis & designJJ/Lecture F notes.md",
+    "CS4125 system analysis & designJJ/Lecture E notes.md",
+    "CS4125 system analysis & designJJ/lecture D notes.md",
+    "CS4125 system analysis & designJJ/lecture C notes.md",
+    "CS4125 system analysis & designJJ/cs4125-week 3 lab.md",
+    "Untitled Document",
     "CS4337.zip",
-    "CS4337/notes.md",
     "CS",
-    "CS4287 neural computing JJ/exam questions/exam hints.md",
-    "CS4125 system analysis & designJJ/cs4125-Week 3.md",
     "CS4287 neural computing JJ/exam questions",
     "CS4125 system analysis & designJJ/Exam questions",
     "CS4617 Tabea",
     "CS4337",
     "CS4125 system analysis & designJJ",
-    "CS4207 Chris Exton",
-    "FYP",
-    "CS4287 neural computing JJ"
+    "CS4207 Chris Exton"
   ]
 }
